@@ -45,7 +45,6 @@ API RESTful for movies CRUD
 <h4>Get movie by Derived Query</h4>
 <p>'getAllMoviesWithYearLessThan' method: finds and returns all movies released before the year that was passed as a parameter.</p>
 
-![imagen](https://github.com/Amhernandez5508/TaskManager-CRUD/assets/121590490/dbcbfa36-8836-4a30-9387-e101aba0ebef)
 ![imagen](https://github.com/Amhernandez5508/Films-API/assets/121590490/07c3055f-951e-47c0-8fe2-4aaa9e974165)
 
 
