@@ -10,7 +10,7 @@ API RESTful for movies CRUD
   <li>JPA</li>
   <li>Spring framework</li>
   <li>Spring Boot</li>
-  <li>Spring Data</li>
+  <li>Spring JPA</li>
   <li>Criteria</li>
   <li>Native Query</li>
   <li>Derived Query</li>
